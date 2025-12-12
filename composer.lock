@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fea9ad2c1d9d04fc22e36fcf899b970e",
+    "content-hash": "7ae87c788b0c65dc28268e74e7691017",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1949,16 +1949,16 @@
         },
         {
             "name": "figuren-theater/ft-themes",
-            "version": "1.4.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-themes.git",
-                "reference": "aeedfd1a00f42003722e626c9187b1447caca84d"
+                "reference": "d39b284a065e2e3cc099d1db2f3d484b5cacd15f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-themes/zipball/aeedfd1a00f42003722e626c9187b1447caca84d",
-                "reference": "aeedfd1a00f42003722e626c9187b1447caca84d",
+                "url": "https://api.github.com/repos/figuren-theater/ft-themes/zipball/d39b284a065e2e3cc099d1db2f3d484b5cacd15f",
+                "reference": "d39b284a065e2e3cc099d1db2f3d484b5cacd15f",
                 "shasum": ""
             },
             "require": {
@@ -2023,7 +2023,7 @@
                 "issues": "https://github.com/figuren-theater/ft-themes/issues",
                 "source": "https://github.com/figuren-theater/ft-themes"
             },
-            "time": "2024-10-25T16:26:59+00:00"
+            "time": "2025-12-11T11:53:28+00:00"
         },
         {
             "name": "figuren-theater/ft-theming",
@@ -4663,15 +4663,15 @@
         },
         {
             "name": "wpackagist-theme/blockmag",
-            "version": "1.1.2",
+            "version": "1.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/blockmag/",
-                "reference": "1.1.2"
+                "reference": "1.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/blockmag.1.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/blockmag.1.2.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4699,15 +4699,15 @@
         },
         {
             "name": "wpackagist-theme/catch-fse",
-            "version": "1.7.3",
+            "version": "1.8",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/catch-fse/",
-                "reference": "1.7.3"
+                "reference": "1.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/catch-fse.1.7.3.zip"
+                "url": "https://downloads.wordpress.org/theme/catch-fse.1.8.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4807,15 +4807,15 @@
         },
         {
             "name": "wpackagist-theme/ollie",
-            "version": "1.2.1",
+            "version": "1.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/ollie/",
-                "reference": "1.2.1"
+                "reference": "1.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/ollie.1.2.1.zip"
+                "url": "https://downloads.wordpress.org/theme/ollie.1.5.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4897,15 +4897,15 @@
         },
         {
             "name": "wpackagist-theme/riverbank",
-            "version": "1.0.11",
+            "version": "1.0.15",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/riverbank/",
-                "reference": "1.0.11"
+                "reference": "1.0.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.11.zip"
+                "url": "https://downloads.wordpress.org/theme/riverbank.1.0.15.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4969,15 +4969,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyfour",
-            "version": "1.2",
+            "version": "1.4",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyfour/",
-                "reference": "1.2"
+                "reference": "1.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyfour.1.2.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyfour.1.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4987,15 +4987,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentyone",
-            "version": "2.3",
+            "version": "2.7",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentyone/",
-                "reference": "2.3"
+                "reference": "2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyone.2.3.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentyone.2.7.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -5005,15 +5005,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentythree",
-            "version": "1.5",
+            "version": "1.6",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentythree/",
-                "reference": "1.5"
+                "reference": "1.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.5.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -5023,15 +5023,15 @@
         },
         {
             "name": "wpackagist-theme/twentytwentytwo",
-            "version": "1.8",
+            "version": "1.9",
             "source": {
                 "type": "svn",
                 "url": "https://themes.svn.wordpress.org/twentytwentytwo/",
-                "reference": "1.8"
+                "reference": "1.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.8.zip"
+                "url": "https://downloads.wordpress.org/theme/twentytwentytwo.1.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
