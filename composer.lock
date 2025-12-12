@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7ae87c788b0c65dc28268e74e7691017",
+    "content-hash": "b956fb422b6966e3dd1edc8b27968243",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1411,16 +1411,16 @@
         },
         {
             "name": "figuren-theater/ft-privacy",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-privacy.git",
-                "reference": "538477aebc85076037ae840aa1499a5dbc2c51ab"
+                "reference": "2f59ff3700d9eabb490272b16a0eb53258ff36b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-privacy/zipball/538477aebc85076037ae840aa1499a5dbc2c51ab",
-                "reference": "538477aebc85076037ae840aa1499a5dbc2c51ab",
+                "url": "https://api.github.com/repos/figuren-theater/ft-privacy/zipball/2f59ff3700d9eabb490272b16a0eb53258ff36b3",
+                "reference": "2f59ff3700d9eabb490272b16a0eb53258ff36b3",
                 "shasum": ""
             },
             "require": {
@@ -1428,8 +1428,8 @@
                 "koodimonni/composer-dropin-installer": "1.4",
                 "php": ">=7.1",
                 "wpackagist-plugin/compressed-emoji": "1.6",
-                "wpackagist-plugin/embed-privacy": "1.10.6",
-                "wpackagist-plugin/koko-analytics": "1.4.4",
+                "wpackagist-plugin/embed-privacy": "1.10.9",
+                "wpackagist-plugin/koko-analytics": "1.4.5",
                 "wpackagist-plugin/surbma-gdpr-multisite-privacy": "2.0"
             },
             "require-dev": {
@@ -1498,7 +1498,7 @@
                 "issues": "https://github.com/figuren-theater/ft-privacy/issues",
                 "source": "https://github.com/figuren-theater/ft-privacy"
             },
-            "time": "2024-11-09T17:53:42+00:00"
+            "time": "2025-12-11T11:54:46+00:00"
         },
         {
             "name": "figuren-theater/ft-routes",
@@ -3997,15 +3997,15 @@
         },
         {
             "name": "wpackagist-plugin/embed-privacy",
-            "version": "1.10.6",
+            "version": "1.10.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/embed-privacy/",
-                "reference": "tags/1.10.6"
+                "reference": "tags/1.10.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/embed-privacy.1.10.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/embed-privacy.1.10.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -4177,15 +4177,15 @@
         },
         {
             "name": "wpackagist-plugin/koko-analytics",
-            "version": "1.4.4",
+            "version": "1.4.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/koko-analytics/",
-                "reference": "tags/1.4.4"
+                "reference": "tags/1.4.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/koko-analytics.1.4.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/koko-analytics.1.4.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
