@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b956fb422b6966e3dd1edc8b27968243",
+    "content-hash": "89913270ec4c9ecbb57d67ae23c76b49",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1168,16 +1168,16 @@
         },
         {
             "name": "figuren-theater/ft-onboarding",
-            "version": "1.6.1",
+            "version": "1.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-onboarding.git",
-                "reference": "b88ab2002d6715b6bed9d362a3a0a9893b65233a"
+                "reference": "d3bfc79c589cb383f5fa4881100a35456d8fe17b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-onboarding/zipball/b88ab2002d6715b6bed9d362a3a0a9893b65233a",
-                "reference": "b88ab2002d6715b6bed9d362a3a0a9893b65233a",
+                "url": "https://api.github.com/repos/figuren-theater/ft-onboarding/zipball/d3bfc79c589cb383f5fa4881100a35456d8fe17b",
+                "reference": "d3bfc79c589cb383f5fa4881100a35456d8fe17b",
                 "shasum": ""
             },
             "require": {
@@ -1192,7 +1192,7 @@
                 "wpackagist-plugin/wp-approve-user": "11"
             },
             "require-dev": {
-                "figuren-theater/code-quality": "^1.1"
+                "figuren-theater/code-quality": "^2.0"
             },
             "type": "wordpress-muplugin",
             "extra": {
@@ -1255,7 +1255,7 @@
                 "issues": "https://github.com/figuren-theater/ft-onboarding/issues",
                 "source": "https://github.com/figuren-theater/ft-onboarding"
             },
-            "time": "2024-11-13T02:45:20+00:00"
+            "time": "2025-12-11T11:52:21+00:00"
         },
         {
             "name": "figuren-theater/ft-options",
