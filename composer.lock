@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "89913270ec4c9ecbb57d67ae23c76b49",
+    "content-hash": "4468fe0a3f7ed4eca181005ffb225446",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1678,16 +1678,16 @@
         },
         {
             "name": "figuren-theater/ft-seo",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-seo.git",
-                "reference": "a3ab46f7c37dcc6d8731b0e531cbcba3a9c85c3f"
+                "reference": "68f75008cfb05b16c1693baa0de1babd06d7ce66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-seo/zipball/a3ab46f7c37dcc6d8731b0e531cbcba3a9c85c3f",
-                "reference": "a3ab46f7c37dcc6d8731b0e531cbcba3a9c85c3f",
+                "url": "https://api.github.com/repos/figuren-theater/ft-seo/zipball/68f75008cfb05b16c1693baa0de1babd06d7ce66",
+                "reference": "68f75008cfb05b16c1693baa0de1babd06d7ce66",
                 "shasum": ""
             },
             "require": {
@@ -1757,7 +1757,7 @@
                 "issues": "https://github.com/figuren-theater/ft-seo/issues",
                 "source": "https://github.com/figuren-theater/ft-seo"
             },
-            "time": "2024-02-24T14:22:47+00:00"
+            "time": "2025-12-11T11:56:09+00:00"
         },
         {
             "name": "figuren-theater/ft-site-editing",
