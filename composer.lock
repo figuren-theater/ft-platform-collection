@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d9ccb9d82a6fb1ca0c94f1cdecc997c6",
+    "content-hash": "10c75bc5b6419601e224310dd51c941f",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1317,16 +1317,16 @@
         },
         {
             "name": "figuren-theater/ft-performance",
-            "version": "1.5.1",
+            "version": "1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-performance.git",
-                "reference": "c4153290cd25c657607431b689e41043751c66b8"
+                "reference": "367f565d22358e8cc6734b2d8b9dd6b8ca6399b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-performance/zipball/c4153290cd25c657607431b689e41043751c66b8",
-                "reference": "c4153290cd25c657607431b689e41043751c66b8",
+                "url": "https://api.github.com/repos/figuren-theater/ft-performance/zipball/367f565d22358e8cc6734b2d8b9dd6b8ca6399b1",
+                "reference": "367f565d22358e8cc6734b2d8b9dd6b8ca6399b1",
                 "shasum": ""
             },
             "require": {
@@ -1407,7 +1407,7 @@
                 "issues": "https://github.com/figuren-theater/ft-performance/issues",
                 "source": "https://github.com/figuren-theater/ft-performance"
             },
-            "time": "2024-11-16T02:55:28+00:00"
+            "time": "2025-12-11T11:54:29+00:00"
         },
         {
             "name": "figuren-theater/ft-privacy",
@@ -4339,15 +4339,15 @@
         },
         {
             "name": "wpackagist-plugin/quicklink",
-            "version": "0.10.1",
+            "version": "0.10.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/quicklink/",
-                "reference": "tags/0.10.1"
+                "reference": "tags/0.10.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/quicklink.0.10.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/quicklink.0.10.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
