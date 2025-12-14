@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4468fe0a3f7ed4eca181005ffb225446",
+    "content-hash": "d9ccb9d82a6fb1ca0c94f1cdecc997c6",
     "packages": [
         {
             "name": "10up/distributor",
@@ -754,23 +754,23 @@
         },
         {
             "name": "figuren-theater/ft-interactive",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-interactive.git",
-                "reference": "c6174040bfaa2a4ad939729a4799cff4f7e8d76a"
+                "reference": "9139a0d06f0ac707cccce61f523428b2b62f57ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-interactive/zipball/c6174040bfaa2a4ad939729a4799cff4f7e8d76a",
-                "reference": "c6174040bfaa2a4ad939729a4799cff4f7e8d76a",
+                "url": "https://api.github.com/repos/figuren-theater/ft-interactive/zipball/9139a0d06f0ac707cccce61f523428b2b62f57ad",
+                "reference": "9139a0d06f0ac707cccce61f523428b2b62f57ad",
                 "shasum": ""
             },
             "require": {
                 "figuren-theater/ft-options": "*",
                 "inpsyde/disable-comments": "1.0.4",
                 "php": ">=7.1",
-                "wpackagist-plugin/antispam-bee": "2.11.6",
+                "wpackagist-plugin/antispam-bee": "2.11.7",
                 "wpackagist-plugin/disable-search": "2.1",
                 "wpackagist-plugin/formality": "1.5.7"
             },
@@ -836,7 +836,7 @@
                 "issues": "https://github.com/figuren-theater/ft-interactive/issues",
                 "source": "https://github.com/figuren-theater/ft-interactive"
             },
-            "time": "2024-10-20T22:44:09+00:00"
+            "time": "2025-12-11T11:49:22+00:00"
         },
         {
             "name": "figuren-theater/ft-maintenance",
@@ -3763,15 +3763,15 @@
         },
         {
             "name": "wpackagist-plugin/antispam-bee",
-            "version": "2.11.6",
+            "version": "2.11.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/antispam-bee/",
-                "reference": "tags/2.11.6"
+                "reference": "tags/2.11.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/antispam-bee.2.11.7.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
