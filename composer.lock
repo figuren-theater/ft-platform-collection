@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9bc6601ec16876ca9291e753276ad4e6",
+    "content-hash": "1c2a60cb488d8f8bb23904c880fec834",
     "packages": [
         {
             "name": "10up/distributor",
@@ -1876,16 +1876,16 @@
         },
         {
             "name": "figuren-theater/ft-theater",
-            "version": "0.2.1",
+            "version": "0.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/figuren-theater/ft-theater.git",
-                "reference": "342ba7d3e9d8c6d6c560d2eb06feebfcec3bbc66"
+                "reference": "ec8c7ca6e2a50ba485ef052f0079dec81645238c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/figuren-theater/ft-theater/zipball/342ba7d3e9d8c6d6c560d2eb06feebfcec3bbc66",
-                "reference": "342ba7d3e9d8c6d6c560d2eb06feebfcec3bbc66",
+                "url": "https://api.github.com/repos/figuren-theater/ft-theater/zipball/ec8c7ca6e2a50ba485ef052f0079dec81645238c",
+                "reference": "ec8c7ca6e2a50ba485ef052f0079dec81645238c",
                 "shasum": ""
             },
             "require": {
@@ -1895,7 +1895,7 @@
                 "wpackagist-plugin/gatherpress": "*"
             },
             "require-dev": {
-                "figuren-theater/code-quality": "^1.1"
+                "figuren-theater/code-quality": "^2.0"
             },
             "type": "wordpress-muplugin",
             "extra": {
@@ -1945,7 +1945,7 @@
                 "issues": "https://github.com/figuren-theater/ft-theater/issues",
                 "source": "https://github.com/figuren-theater/ft-theater"
             },
-            "time": "2024-11-13T02:29:14+00:00"
+            "time": "2025-12-11T11:57:30+00:00"
         },
         {
             "name": "figuren-theater/ft-themes",
@@ -4080,15 +4080,15 @@
         },
         {
             "name": "wpackagist-plugin/gatherpress",
-            "version": "0.31.0",
+            "version": "0.32.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/gatherpress/",
-                "reference": "tags/0.31.0"
+                "reference": "tags/0.32.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/gatherpress.0.31.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/gatherpress.0.32.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
